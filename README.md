@@ -41,3 +41,5 @@ requirements.txt contains all the packages you will need for this work.
 
 ## Captures:
 ![1](https://user-images.githubusercontent.com/61566287/219137584-1cc30f2b-bc09-459c-9844-f8e2be3f0701.PNG)
+![2](https://user-images.githubusercontent.com/61566287/219137651-7d0a66c9-7cd9-4c28-ab6d-6f1c0f7db223.PNG)
+
