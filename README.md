@@ -38,3 +38,6 @@ requirements.txt contains all the packages you will need for this work.
 
 ## Create an App
 > py manage.py startapp AppName
+
+## Captures:
+![1](https://user-images.githubusercontent.com/61566287/219137584-1cc30f2b-bc09-459c-9844-f8e2be3f0701.PNG)
