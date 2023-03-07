@@ -40,7 +40,11 @@ requirements.txt contains all the packages you will need for this work.
 > py manage.py startapp AppName
 
 
-## Captures:
+## Captures 1:
 ![1](https://user-images.githubusercontent.com/61566287/219137584-1cc30f2b-bc09-459c-9844-f8e2be3f0701.PNG)
 ![2](https://user-images.githubusercontent.com/61566287/219137651-7d0a66c9-7cd9-4c28-ab6d-6f1c0f7db223.PNG)
 ![3](https://user-images.githubusercontent.com/61566287/219137723-a318d859-1c33-46f1-ac93-2ff23a9fd1f0.PNG)
+## Captures 2:
+![1](https://user-images.githubusercontent.com/61566287/221839061-2dbde3d7-003d-48d2-ad9b-6ff9cd94d580.PNG)
+![2](https://user-images.githubusercontent.com/61566287/221839062-e4d6090b-ecda-4d61-a739-cf60d101b8b5.PNG)
+![3](https://user-images.githubusercontent.com/61566287/221839063-c25678b3-3bc8-4074-9fb7-ee142a247694.PNG)
